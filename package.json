@@ -1,0 +1,18 @@
+{
+  "name": "csc4035-assignment1-portfolio",
+  "version": "1.0.0",
+  "description": "Assignment 1: Responsive Portfolio Website - CSC4035 Web Programming",
+  "main": "index.html",
+  "scripts": {
+    "test": "node tests/visible/tests.js",
+    "grade": "bash tests/visible/auto-grade.sh"
+  },
+  "keywords": [
+    "portfolio",
+    "responsive",
+    "html5",
+    "css3",
+    "csc4035"
+  ],
+  "license": "MIT"
+}
